@@ -1,0 +1,5 @@
+exports.constants={
+    VALIDATION_ERROR:400,
+    AUTHORIZEATION_ERROR:501,
+    NOT_FOUND:404
+}
